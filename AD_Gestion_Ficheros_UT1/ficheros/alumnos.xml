@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Alumnos>
+    <Alumno edad="25" nombre="Tomeu">
+        <direccion>C/ Hala Madrid 1-2</direccion>
+        <telefono>666666666</telefono>
+    </Alumno>
+</Alumnos>
