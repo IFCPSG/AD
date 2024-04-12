@@ -1,0 +1,16 @@
+2023-11-27 16:40:33.407425+01:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "PERSONA" ya existe
+Table "PERSONA" already exists; SQL statement:
+CREATE TABLE Persona (id INT NOT NULL, nombre VARCHAR(255) NOT NULL, telefono VARCHAR(15), direccion VARCHAR(255)) [42101-224]
+2023-11-27 16:40:33.413530+01:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "DIRECCION" ya existe
+Table "DIRECCION" already exists; SQL statement:
+CREATE TABLE Direccion (id INT NOT NULL, idPersona INT NOT NULL, direccion VARCHAR(255)) [42101-224]
+2023-12-11 17:20:31.558309+01:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "PERSONA" ya existe
+Table "PERSONA" already exists; SQL statement:
+CREATE TABLE Persona (id INT NOT NULL, nombre VARCHAR(255) NOT NULL, telefono VARCHAR(15), direccion VARCHAR(255)) [42101-224]
+2023-12-11 17:20:31.573950+01:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "DIRECCION" ya existe
+Table "DIRECCION" already exists; SQL statement:
+CREATE TABLE Direccion (id INT NOT NULL, idPersona INT NOT NULL, direccion VARCHAR(255)) [42101-224]
