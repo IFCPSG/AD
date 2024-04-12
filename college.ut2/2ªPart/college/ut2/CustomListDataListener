@@ -1,0 +1,21 @@
+package college.ut2;
+
+import javax.swing.event.ListDataEvent;
+import javax.swing.event.ListDataListener;
+
+public interface CustomListDataListener extends ListDataListener {
+    @Override
+    default void intervalAdded(ListDataEvent e) {
+        // Lógica cuando se agrega un intervalo en el modelo
+    }
+
+    @Override
+    default void intervalRemoved(ListDataEvent e) {
+        // Lógica cuando se elimina un intervalo en el modelo
+    }
+
+    @Override
+    default void contentsChanged(ListDataEvent e) {
+        // Lógica cuando el contenido del modelo cambia
+    }
+}
