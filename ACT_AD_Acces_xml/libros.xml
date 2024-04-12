@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<cataleg>
+        
+    <llibre id="bk101">
+                
+        <autor>Gambardella, Matthew</autor>
+                
+        <titol>XML Developer's Guide</titol>
+                
+        <genere>Computer</genere>
+                
+        <preu>44.95</preu>
+                
+        <data_de_publicació>2000-10-01</data_de_publicació>
+                
+        <descripció>An in-depth look at creating applications
+            with XML.</descripció>
+            
+    </llibre>
+        
+    <llibre id="bk102">
+                
+        <autor>Ralls, Kim</autor>
+                
+        <titol>Midnight Rain</titol>
+                
+        <genere>Fantasy</genere>
+                
+        <preu>5.95</preu>
+                
+        <data_de_publicació>2000-12-16</data_de_publicació>
+                
+        <descripció>A former architect battles corporate zombies,
+            an evil sorceress, and her own childhood to become queen
+            of the world.</descripció>
+            
+    </llibre>
+        
+    <llibre id="bk103">
+                
+        <autor>Corets, Eva</autor>
+                
+        <titol>Maeve Ascendant</titol>
+                
+        <genere>Fantasy</genere>
+                
+        <preu>5.95</preu>
+                
+        <data_de_publicació>2000-11-17</data_de_publicació>
+                
+        <descripció>After the collapse of a nanotechnology
+            society in England, the young survivors lay the
+            foundation for a new society.</descripció>
+            
+    </llibre>
+        
+    <llibre id="bk104">
+                
+        <autor>Corets, Eva</autor>
+                
+        <titol>Oberon's Legacy</titol>
+                
+        <genere>Fantasy</genere>
+                
+        <preu>5.95</preu>
+                
+        <data_de_publicació>2001-03-10</data_de_publicació>
+                
+        <descripció>In post-apocalypse England, the mysterious
+            agent known only as Oberon helps to create a new life
+            for the inhabitants of London. Sequel to Maeve
+            Ascendant.</descripció>
+            
+    </llibre>
+        
+    <llibre id="bk105">
+                
+        <autor>Corets, Eva</autor>
+                
+        <titol>The Sundered Grail</titol>
+                
+        <genere>Fantasy</genere>
+                
+        <preu>5.95</preu>
+                
+        <data_de_publicació>2001-09-10</data_de_publicació>
+                
+        <descripció>The two daughters of Maeve, half-sisters,
+            battle one another for control of England. Sequel to
+            Oberon's Legacy.</descripció>
+            
+    </llibre>
+        
+    <llibre id="bk106">
+                
+        <autor>Randall, Cynthia</autor>
+                
+        <titol>Lover Birds</titol>
+                
+        <genere>Romance</genere>
+                
+        <preu>4.95</preu>
+                
+        <data_de_publicació>2000-09-02</data_de_publicació>
+                
+        <descripció>When Carla meets Paul at an ornithology
+            conference, tempers fly as feathers get ruffled.</descripció>
+            
+    </llibre>
+        
+    <llibre id="bk107">
+                
+        <autor>Thurman, Paula</autor>
+                
+        <titol>Splish Splash</titol>
+                
+        <genere>Romance</genere>
+                
+        <preu>4.95</preu>
+                
+        <data_de_publicació>2000-11-02</data_de_publicació>
+                
+        <descripció>A deep sea diver finds true love twenty
+            thousand leagues beneath the sea.</descripció>
+            
+    </llibre>
+        
+    <llibre id="bk108">
+                
+        <autor>Knorr, Stefan</autor>
+                
+        <titol>Creepy Crawlies</titol>
+                
+        <genere>Horror</genere>
+                
+        <preu>4.95</preu>
+                
+        <data_de_publicació>2000-12-06</data_de_publicació>
+                
+        <descripció>An anthology of horror stories about roaches,
+            centipedes, scorpions  and other insects.</descripció>
+            
+    </llibre>
+        
+    <llibre id="bk109">
+                
+        <autor>Kress, Peter</autor>
+                
+        <titol>Paradox Lost</titol>
+                
+        <genere>Science Fiction</genere>
+                
+        <preu>6.95</preu>
+                
+        <data_de_publicació>2000-11-02</data_de_publicació>
+                
+        <descripció>After an inadvertant trip through a Heisenberg
+            Uncertainty Device, James Salway discovers the problems
+            of being quantum.</descripció>
+            
+    </llibre>
+        
+    <llibre id="bk110">
+                
+        <autor>O'Brien, Tim</autor>
+                
+        <titol>Microsoft .NET: The Programming Bible</titol>
+                
+        <genere>Computer</genere>
+                
+        <preu>36.95</preu>
+                
+        <data_de_publicació>2000-12-09</data_de_publicació>
+                
+        <descripció>Microsoft's .NET initiative is explored in
+            detail in this deep programmer's reference.</descripció>
+            
+    </llibre>
+        
+    <llibre id="bk111">
+                
+        <autor>O'Brien, Tim</autor>
+                
+        <titol>MSXML3: A Comprehensive Guide</titol>
+                
+        <genere>Computer</genere>
+                
+        <preu>36.95</preu>
+                
+        <data_de_publicació>2000-12-01</data_de_publicació>
+                
+        <descripció>The Microsoft MSXML3 parser is covered in
+            detail, with attention to XML DOM interfaces, XSLT processing,
+            SAX and more.</descripció>
+            
+    </llibre>
+        
+    <llibre id="bk112">
+                
+        <autor>Galos, Mike</autor>
+                
+        <titol>Visual Studio 7: A Comprehensive Guide</titol>
+                
+        <genere>Computer</genere>
+                
+        <preu>49.95</preu>
+                
+        <data_de_publicació>2001-04-16</data_de_publicació>
+                
+        <descripció>Microsoft Visual Studio 7 is explored in depth,
+            looking at how Visual Basic, Visual C++, C#, and ASP+ are
+            integrated into a comprehensive development
+            environment.</descripció>
+            
+    </llibre>
+    
+</cataleg>
